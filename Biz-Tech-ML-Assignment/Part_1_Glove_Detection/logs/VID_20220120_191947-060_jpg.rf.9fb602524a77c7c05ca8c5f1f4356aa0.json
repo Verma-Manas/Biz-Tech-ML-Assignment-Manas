@@ -1,0 +1,25 @@
+{
+  "filename": "VID_20220120_191947-060_jpg.rf.9fb602524a77c7c05ca8c5f1f4356aa0.jpg",
+  "detections": [
+    {
+      "label": "not-gloved",
+      "confidence": 0.991592526435852,
+      "bbox": [
+        84,
+        0,
+        154,
+        81
+      ]
+    },
+    {
+      "label": "gloved",
+      "confidence": 0.539134681224823,
+      "bbox": [
+        51,
+        82,
+        132,
+        163
+      ]
+    }
+  ]
+}
