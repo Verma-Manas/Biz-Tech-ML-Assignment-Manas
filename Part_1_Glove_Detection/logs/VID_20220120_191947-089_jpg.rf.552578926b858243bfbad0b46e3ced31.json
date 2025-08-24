@@ -1,0 +1,15 @@
+{
+  "filename": "VID_20220120_191947-089_jpg.rf.552578926b858243bfbad0b46e3ced31.jpg",
+  "detections": [
+    {
+      "label": "not-gloved",
+      "confidence": 0.4323056638240814,
+      "bbox": [
+        82,
+        21,
+        155,
+        67
+      ]
+    }
+  ]
+}

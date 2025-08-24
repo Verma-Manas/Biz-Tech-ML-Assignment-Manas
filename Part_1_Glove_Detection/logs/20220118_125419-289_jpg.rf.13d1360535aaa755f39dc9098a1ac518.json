@@ -1,0 +1,25 @@
+{
+  "filename": "20220118_125419-289_jpg.rf.13d1360535aaa755f39dc9098a1ac518.jpg",
+  "detections": [
+    {
+      "label": "gloved",
+      "confidence": 0.7573970556259155,
+      "bbox": [
+        104,
+        105,
+        140,
+        134
+      ]
+    },
+    {
+      "label": "gloved",
+      "confidence": 0.34275320172309875,
+      "bbox": [
+        61,
+        108,
+        103,
+        138
+      ]
+    }
+  ]
+}
